@@ -4,7 +4,7 @@ The Loronar medium transport was designed by the Loronar Corporation prior to th
 The Loronar medium transport is sold by Loronar Corporation, on the planet Rust in the Kraz System.
 
 # Install
-Place the downloaded file, "Loronar-transport", to your plugins folder found here:
+Place the downloaded file, "Loronar-transport", in your plugins folder found here:
 
 ###### Linux: ~/.local/share/endless-sky/
 ###### Windows: %AppData%\endless-sky\
